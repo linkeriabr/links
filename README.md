@@ -10,6 +10,6 @@ Os caminhos relativos funcionam tanto em um domínio próprio quanto em usuario.
 
 ## Conteúdo
 
-A seleção de primavera está em prévia; os links são comuns do Mercado Livre, sem afiliação. As imagens são ilustrativas, geradas com IA. Não há envio automático de direct nem monitoramento de ofertas configurado.
+A seleção de primavera está em prévia; os links foram fornecidos pela responsável pela Linkeria. As imagens são ilustrativas. Não há envio automático de direct nem monitoramento de ofertas configurado.
 
 O conteúdo do site e a identidade Linkeria não recebem licença de reutilização por este repositório.
